@@ -1,1 +1,1 @@
-http://web-app-github2.tejitha.sbx.hashidemos.io
+http://web-app-github2.hattrick.com
